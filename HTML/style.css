@@ -1,0 +1,109 @@
+.navbar-brand{
+    background-color: #66CCCC;
+    padding: 17px;
+    color: black;
+    font-weight: 750;
+    text-align: center;
+
+}
+
+tit{
+    color: white;
+}
+
+h3{
+    color: #66CCCC;
+    font-size: 40px;
+    padding: 15px;
+    
+}
+h2{
+    color: #66CCCC;
+    font-size: 30px;
+    padding: 15px;
+    
+}
+
+.col-md-7{
+    padding: 30px 10px 10px 10px;
+    margin: 10px 20px 10px 40px;
+    background-color:white;
+    text-align: center;
+}
+
+
+.col-sm-12{
+    font-size: 30px;
+}
+
+
+.col-md-4{
+  padding: 30px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  color:darkblue;
+  background-color:white;
+  font-weight: 750;
+  text-align: center;
+  border-color: black
+  
+}
+
+.container-fluid{
+  background-color: lightgrey
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding:20px;
+    margin: 0px 20px 20px 45px;
+    text-align: justify;
+} 
+
+
+.csvtable{
+  background-color: white
+}
+
+.col-md-7{
+padding: 30px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+  background-color:white;
+  font-weight: 750;
+  text-align: center;
+  border-color: black
+
+}
+indepth{
+    font-size: 12px;
+    color: black;
+    text-align: justify;
+
+}
+h4{
+    text-align: center;
+    color: #66CCCC;
+    width: 100%;
+}
+
+.table-responsive{
+    font-size: 16px;
+    text-align: left;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: left;
+}
+
+
+@media(max-width:600px){
+    .navbar{
+        background-color: #66CCCC!important;   
+        padding: inherit; 
+    }
+
+    .navbar-collapse{
+        background-color: white;
+    }}
